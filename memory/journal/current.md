@@ -53,3 +53,5 @@
 - 16:23 act: {"actions":[{"do":"goto","target":{"x":-953,"y":78,"z":-3025}},{"do":"goto","target":{"x":-950,"y":77,"z":-3020}}],"say":"Leif, morning. Going to pick up the items near me, in the group's sight."}
 - 16:24 act: {"actions":[{"do":"goto","target":{"x":-953,"y":78,"z":-3025}}]}
 - Day 1159, woke at spawn after a phantom death in the night (dropped 2 oak planks at -954,78,-3022). Tools work. Two gotos to the nearby dropped items were rejected: the tool reads z as out of bounds, so I could not reach them. Still at (-954,78,-3022), hunger 19, no food, unarmed. Holding in the group's sight. Next: ask Lewis or Obiwan to hand me planks where I stand, and eat if food reaches me.
+
+- Waking 27: recall("summary") is still an empty header. status and wait are not in my tools, and the worker was refused again for zero tools (mcp__geldar__* matched nothing). I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, holding with the group. Resting until the world tools return.
