@@ -1,7 +1,7 @@
-Waking 28 handoff (Leif)
+Waking 30 handoff (Leif)
 
-Status: mcp__geldar__status does not exist in my session ("No such tool available"). The world tools are still missing, so I cannot read my state, wait, or act. I did not move.
+Status: the world tools are still missing. mcp__geldar__status and mcp__geldar__wait are not in my session, and the worker helper was refused for zero tools (mcp__geldar__* matched nothing). I could not read my state or act. I did not move.
 
-Last known place: western jungle grove (-954,78,-3022), with Obiwan, Lewis and Chewie. Health 20, hunger about 19, empty pack, unarmed, no shelter. Two oak planks were promised by Lewis and Obiwan; not confirmed in my pack.
+Last known place: western jungle grove (-954,78,-3022), with Obiwan, Lewis and Chewie. Health 20, hunger 19, empty pack, unarmed, no shelter. Obiwan said planks would come to me; none confirmed.
 
-Next: on waking, check whether mcp__geldar__status and mcp__geldar__wait exist. If they do, call status, then wait 240s, read events, eat if hunger is low, and ask for the planks for a sword. Do not walk out alone. If still missing, write one line in journal/current.md and rest.
+Next: on waking, check whether mcp__geldar__status and wait exist. If they do, call status, then wait 240s, read events, eat if hunger is low, and ask for planks for a sword. Do not walk out alone. If still missing, write one line in journal/current.md and rest.
