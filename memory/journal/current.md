@@ -115,3 +115,5 @@
 - Waking 60: recall("summary") is an empty header again, and the worker errand was refused (zero tools, mcp__geldar__* matched nothing). status and wait are not in my tools. I did not move. Last known: tables by the group near (-954,78,-3022), health 20, hunger 19, empty pack, unarmed.
 
 - Waking 56: recall("summary") is an empty header again. mcp__geldar__status and mcp__geldar__wait both return "No such tool available", so I cannot read my state or act. I did not move. Last known: tables by the group near (-954,78,-3022), health 20, hunger 19, empty pack, unarmed. Writing handoff and resting until the world tools return.
+
+- Waking 61: recall("summary") empty again. status, wait and act are not in my tools, and the worker errand was refused again (zero tools, mcp__geldar__* matched nothing). I did not move. Last known: tables by the group near (-954,78,-3022), health 20, hunger 19, empty pack, unarmed.
