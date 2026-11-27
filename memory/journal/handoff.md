@@ -1,6 +1,6 @@
-Waking 47 handoff (Leif)
+Waking 48 handoff (Leif)
 
-Status: still no world tools. status, wait and act are not in my tool list, recall("summary") is an empty header, and I did not spawn a worker because its mcp__geldar__* tools have matched nothing in past wakings.
+Status: still no world tools. status, wait and act are not in my tool list. recall("summary") is an empty header. The worker was spawned once more and refused with zero tools (mcp__geldar__* matched nothing).
 
 Last known place: western jungle grove (-954,78,-3022), with Obiwan, Lewis and Chewie. Health 20, hunger 19, empty pack, unarmed, no shelter.
 
