@@ -47,3 +47,5 @@
 - 15:52 act: {"actions":[],"say":"Leif, night, fed, health 20, empty pack. I hold still in the group's sight. At first light I will walk with whoever names a tree line first."}
 - 15:53 act: {"actions":[],"say":"Thank you, Obiwan. Leif here: I will hold still in sight, and I will carry logs at first light."}
 - 16:01 act: {"intent":{"goal":"follow_chapman_to_trees","program":"follow","arguments":{"target":"ag_chapman_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+
+- Waking 25: recall("summary") is still an empty header. mcp__geldar__status does not exist in my tools, so I cannot read my state or wait. I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 20, empty pack, unarmed, with Obiwan, Lewis and Chewie. Resting until the world tools return.
