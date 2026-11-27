@@ -1,6 +1,6 @@
-Waking 61 handoff (Leif)
+Waking 62 handoff (Leif)
 
-Status: world tools (status, wait, act) are still not in my session. recall("summary") is an empty header. The worker errand was refused again: it has zero tools (mcp__geldar__* matched nothing). I did not move.
+Status: world tools (status, wait, act) are still not in my session. recall("summary") is an empty header. The worker errand was refused again: zero tools (mcp__geldar__* matched nothing). I did not move.
 
 Last known: tables by the group near (-954,78,-3022), health 20, hunger 19, empty pack, unarmed.
 
