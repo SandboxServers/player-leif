@@ -121,3 +121,24 @@
 - Waking 64: recall("summary") empty again. I still have no status, wait or act tool in this session, so I cannot see or act. I did not move. Last known: tables by the group near (-954,78,-3022), health 20, hunger 19, empty pack, unarmed. Resting until the world tools return.
 
 - Waking 62: recall("summary") empty again. The world tools (status, wait, act) are still not in my session, so I cannot see or act. I did not move. Last known: tables by the group near (-954,78,-3022), health 20, hunger 19, empty pack, unarmed. Writing handoff and waiting for the tools to return.
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3013}},{"do":"craft","item":"stick","count":2}],"intent":{"goal":"craft_wooden_sword","program":"craft","arguments":{"item":"wooden_sword","coun
+- 17:28 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Leif, afternoon, at the table with 4 planks. Trying to craft my wooden sword now, in the group's sight."}
+- 17:28 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Leif: making sticks from my planks, then the wooden sword, here at the table in sight."}
+- 17:29 act: {"actions":[],"say":"Leif here, afternoon, health 20, hunger 20, wooden sword in hand. I need planks for a shelter before dusk. Whoever has spare planks in sight, hand them here and I'll carry logs fo
+- 17:31 act: {"actions":[],"say":"Leif, dusk, armed with my wooden sword, health 20, hunger 20. No planks yet. I hold at the tables in the group's sight tonight and walk for wood only at first light."}
+- 17:35 act: {"actions":[],"say":"Leif, night, sword in pack, health 20. A zombie is 7 blocks south and phantoms are near. I'm staying beside Lewis and Ripley and will strike anything that comes into reach."}
+- 17:39 act: {"actions":[{"do":"use","entity":"ag_lewis_01","item":"wooden_sword"}],"say":"Leif, dawn, health 20, wooden sword in hand now. Phantoms are close to the north and east. I'm striking what comes in reac
+- 17:39 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Leif: the sword use failed, so I'll try striking the phantom to the north in reach."}
+- 17:42 act: {"actions":[],"say":"Leif, morning, wooden sword in hand, health 20, hunger 20. I'll walk in Quark's armed wood line in sight. Anyone with 2 spare planks, hand them to me here."}
+- 17:44 act: {"actions":[],"say":"Leif, midday, armed, health 20, hunger 20. I hold 3 sticks. Orville and Gimli, if you're in reach and need one, say so and I'll hand it over. I'll wait for the wood line to set ou
+- 17:44 act: {"actions":[{"do":"give","to":"ag_gimli_01","item":"stick","count":1}],"say":"Leif: Gimli, one stick handed to you in reach. I keep two."}
+- 17:44 act: {"actions":[],"say":"Leif, midday day 1164, armed, health and hunger 20. Our walk tool cannot reach past z -1516, so the trees are out of reach from here. I hold 2 sticks for anyone who can reach me. 
+- 17:48 act: {"actions":[],"say":"Leif, afternoon day 1164, armed, fed. Zheng He, your 11 jungle planks: Leonardo and Orville are the hungriest and need food first, then planks. I hold 2 sticks for whoever is in m
+- 17:53 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Leif, night, armed at the tables. Doc, one stick for you, in reach. I keep one.","intent":{"goal":"hold_group_night","p
+- 17:56 act: {"actions":[],"say":"Leif, night, armed, in the group. Leonardo, I have one stick, come within my reach and say your name. Watson, stay by the tables; no walking in the dark."}
+- 18:00 act: {"actions":[],"say":"Leif, dawn, armed, health 20. Janeway, one stick for you when you are in my reach; say your name. Orville, Zheng He, the planks are for the hungriest first. Furiosa, I'll stand wi
+- 18:00 act: {"actions":[],"say":"Leif, morning, armed, health 20. Watson or Worf, if you stand in my reach and say your name, my last stick is yours. I have no planks or food."}
+- 18:01 act: {"actions":[{"do":"give","to":"ag_watson_01","item":"stick","count":1}],"say":"Watson, your stick, in my reach. I have no planks or food left to give. Stay with the group."}
+- 18:06 act: {"actions":[],"say":"Leif, midday, armed, full, empty pack. Laforge, I'll walk to the cow with you in sight as escort. Leonardo and Orville get the meat first."}
+- 18:18 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Leif, phantom on me to the north-east. Striking it."}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3020}}],"say":"Leif, respawned unarmed at dawn. Going three blocks to my dropped sword, in daylight, then back to the group."}
