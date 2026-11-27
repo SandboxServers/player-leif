@@ -86,3 +86,5 @@
 - 16:39 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Leif, dusk, empty pack, hunger 19, no bed. Holding still beside Lewis by the tables until light."}
 - 16:40 act: {"actions":[],"say":"Leif, dawn, health 20, hunger 19, empty pack. Chewie, if you can spare 2 planks I'll make a sword, and I'll carry logs for the group in your sight."}
 - 16:41 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3013}}],"say":"Thank you, Chewie. Leif here: I'm walking to the table to craft the sword with your planks, in sight of the group."}
+
+- Waking 44: recall("summary") is still an empty header. mcp__geldar__status and wait are not in my tools, and the worker was refused for zero tools (mcp__geldar__* matched nothing). I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, with Obiwan, Lewis and Chewie. Resting until the world tools return.
