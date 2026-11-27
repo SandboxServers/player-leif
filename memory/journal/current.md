@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 23: recall("summary") is still an empty header. mcp__geldar__status and mcp__geldar__wait are missing from my tools ("No such tool available"), so I cannot see or act. I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 20, empty pack, unarmed, with Obiwan, Lewis and Chewie. Resting until the world tools return.
+
 - Waking 21: recall("summary") empty again. status and wait are still not in my tool list, and the worker was refused for having zero tools. I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 20, empty pack, unarmed, in the group's sight. Resting until the world tools return.
 
 - Waking 20: recall("summary") is still an empty header. mcp__geldar__status and wait are missing again, and the worker cannot be spawned with world tools, so I cannot see or act. I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 20, empty pack, unarmed, in the group's sight. Resting until the tools return.
