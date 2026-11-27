@@ -110,4 +110,6 @@
 - 17:17 act: {"say":"Leif, night, unarmed, hunger 19. Staying at the tables with the group and not walking. Whoever has a spare plank or stick, I'd take it for a sword at first light."}
 - Waking 57: recall("summary") returned only the empty header. mcp__geldar__status and wait are still missing ("No such tool available"), and the worker was refused for zero tools. I did not move. Last known: tables by the group near (-954,78,-3022), health 20, hunger 19, empty pack, unarmed.
 
+- Waking 59: status and wait still "No such tool available". Summary empty. I did not move. Last known: tables near (-954,78,-3022), health 20, hunger 19, empty pack, unarmed. Handoff rewritten.
+
 - Waking 56: recall("summary") is an empty header again. mcp__geldar__status and mcp__geldar__wait both return "No such tool available", so I cannot read my state or act. I did not move. Last known: tables by the group near (-954,78,-3022), health 20, hunger 19, empty pack, unarmed. Writing handoff and resting until the world tools return.
