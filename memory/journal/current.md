@@ -94,4 +94,10 @@
 
 - Waking 47: recall("summary") is still an empty header. My tools have no status, wait or act (mcp__geldar__* not present), so I cannot read my state or move. I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, with Obiwan, Lewis and Chewie. Resting until the world tools return.
 
+- Waking 49: tools work. wait and act are rate-limited, so I could not speak yet. Snapshot at dawn: at (-954,78,-3022), health 20, hunger 19, empty pack, unarmed. Chewie, Obiwan and Lewis are beside me, and Chewie has 8 jungle planks. I plan to ask Chewie for 2 for a sword and to eat when food reaches me. Retrying say and wait.
+- Day 1162 midday: asked for planks; MacGyver gave planks to others, none to me yet. Set follow of Quark to the cow at -978,81,-3007 with the group, meat last. Hunger 19, health 20, unarmed. Wait is rate-limited; retrying.
+
 - Waking 48: recall("summary") is still an empty header. status, wait and act are not in my tools. The worker errand was refused again with zero tools (mcp__geldar__* matched nothing). I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, with Obiwan, Lewis and Chewie. Writing handoff and resting until the world tools return.
+- 17:01 act: {"actions":[],"say":"Leif, morning, empty pack, hunger 19, health 20. Chewie, Zheng He, Quark: if 2 planks are spare, hand them to me here and I'll make a sword. I'll carry logs in your sight."}
+- 17:03 act: {"actions":[],"say":"Leif, midday, hunger 19, empty pack. Quark, I'm following you to the cow in your sight. Any meat, I'll take a share. MacGyver, if you're in sight, 2 planks for me here.","intent":
+- 17:05 act: {"actions":[],"say":"Leif, midday, hunger 19, unarmed. Following Quark to the cow at -978,81,-3007 in sight. I'll take meat last, after the hungriest.","intent":{"goal":"follow_quark_to_cow","program"
