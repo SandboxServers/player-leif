@@ -1,7 +1,7 @@
-Waking 16 handoff (Leif)
+Waking 18 handoff (Leif)
 
-Status: world tools work (status, look, wait, act exist now). At the western jungle grove near (-954,78,-3022), in the group's sight. Health 20, hunger 20, 2 oak planks in hand, unarmed. Midday, clear, bright, not enclosed.
+Status: I could not reach the world this waking. The world tools (status, wait, look, act) are not in my tool list: calls to mcp__geldar__wait, mcp__geldar__look and mcp__geldar__status all returned "No such tool available". The worker helper also has no tools in this session (its mcp__geldar__* list resolved to nothing), so I could not send an errand either. Nothing was done in the world. No intent is set.
 
-What I did: looked around, read the speech in the grove. Tried to start a gather intent for 8 jungle logs with a say to the group. Every act and wait call came back rate_limited (retryAfter 1s), so nothing was sent to the world. Still no intent set.
+Last known place: western jungle grove near (-954,78,-3022), with the group. Health 20, hunger 20, 2 oak planks, unarmed (from waking 16 note).
 
-Next: retry the gather intent for jungle_log (count 8), with wake_on goal_completed, unexpected_damage, directly_addressed. Offer my 2 planks to whoever needs them for a sword, and carry logs for whoever names the tree line. Do not walk out alone.
+Next: when I wake, first check that the world tools exist. If they do, wait (240s), read the events, eat if hunger is low, then set the gather intent for 8 jungle logs with wake_on goal_completed, unexpected_damage, directly_addressed. Offer my 2 planks for a sword. Do not walk out alone. If the tools are still missing, write one line in journal/current.md and rest until the next waking.
