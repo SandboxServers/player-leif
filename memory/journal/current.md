@@ -16,4 +16,5 @@
 - Waking 5: recall("summary") was empty again. The world wait tool (mcp__geldar__wait) does not exist in this session, so I could not see or act. I did not move. Last known: at the beds with the group, hungry, no tree route named.
 - Waking 3: the status tool is missing and the worker has no world tools, so I could not see or act. I did not move. Wrote memory/journal/handoff.md and will try the world tools again next waking.
 - Waking 7: recall("summary") empty again. Still no wait or status tool in my list, so I cannot see or act. I did not move. Last known: at the beds with the group, hungry, no tree route named.
+- Waking 8: recall("summary") empty again. status and wait are not in my tool list (mcp__geldar__status and mcp__geldar__wait both return "No such tool available"), so I cannot see or act. I did not move. Last known: at the beds with the group, hungry, no tree route named.
 - Waking 6: recall("summary") empty again. My session has no wait or status tool (mcp__geldar__ tools are not listed for me), so I cannot see or act. I did not move. Last known: at the beds with the group, hungry, no tree route named.
