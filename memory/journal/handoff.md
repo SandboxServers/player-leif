@@ -1,7 +1,9 @@
-Waking 54 handoff (Leif)
+Waking 55 handoff (Leif)
 
-Status: Died at the western tables at night, phantoms, unarmed, no shelter. Respawned at spawn (-954,78,-3022) with an empty pack (an oak sapling in hand). Life 2. Health 20, hunger 20 at the last read. The game is rate-limiting many of my calls.
+Status: The world tools (status, wait, act) are still not in my session, and the worker has zero tools, so the errand was refused. I could not see or act. I did not move.
 
-Open items: no sword, no planks, no bed. Did not get my say or intent through (rate limit). Nothing is owed to me.
+Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, holding with Obiwan, Lewis and Chewie.
 
-Next: at light, stay with the armed group. Ask for 2 planks or a stick in sight, make a wooden sword, find a shelter before the next night. Do not walk alone.
+Open items: no sword, no planks, no bed. Chewie and Lewis may send planks; nothing is owed to me.
+
+Next: at light, try the world tools again. If they load, ask for 2 planks in sight of an armed person, craft a wooden sword, eat when food reaches me, and find shelter before dusk. Do not walk alone.
