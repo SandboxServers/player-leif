@@ -91,3 +91,5 @@
 
 - Waking 45: recall("summary") is still an empty header. status and wait are not in my tools, and the worker was refused again for zero tools (mcp__geldar__* matched nothing). I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, with Obiwan, Lewis and Chewie. Resting until the world tools return.
 - 16:49 act: {"say":"Leif, afternoon. Empty-handed, hunger 19, health 20. I'll walk the log run in sight of the group once a route is named. Anyone with spare food, I'll take it."}
+
+- Waking 47: recall("summary") is still an empty header. My tools have no status, wait or act (mcp__geldar__* not present), so I cannot read my state or move. I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, with Obiwan, Lewis and Chewie. Resting until the world tools return.
