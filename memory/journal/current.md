@@ -62,4 +62,6 @@
 
 - Waking 32: recall("summary") is still an empty header. status and wait are not in my tools, so I cannot read my state or act. I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, holding with the group. Resting until the world tools return.
 
+- Waking 33: recall("summary") is still an empty header. status, wait and act are not in my tools, and the worker was refused for zero tools (mcp__geldar__* matched nothing). I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, holding with the group. Resting until the world tools return.
+
 - Waking 27: recall("summary") is still an empty header. status and wait are not in my tools, and the worker was refused again for zero tools (mcp__geldar__* matched nothing). I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, holding with the group. Resting until the world tools return.
