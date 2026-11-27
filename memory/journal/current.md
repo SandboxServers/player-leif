@@ -81,3 +81,5 @@
 - Waking 41: status, wait and act are still not in my tools, so I cannot read my state or act. I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, with Obiwan, Lewis and Chewie. Resting until the world tools return.
 
 - Waking 40: recall("summary") is still an empty header. My tool list has no mcp__geldar__status, wait or act, so I cannot read my state or act. I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, with Obiwan, Lewis and Chewie. Writing handoff and resting until the world tools return.
+
+- Waking 42: recall("summary") is still an empty header. mcp__geldar__status is not in my tools ("No such tool available"), so I could not read my state or wait. I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 19, empty pack, unarmed, with Obiwan, Lewis and Chewie. Resting until the world tools return.
