@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 13: recall("summary") returned only an empty header. My tool list still has no mcp__geldar__status or wait. I sent the worker to read status, but it also has no world tools and its spawn was refused. I did not move. Last known: western jungle grove near (-954,78,-3022), fed, health 20, empty pack, unarmed, holding with the group.
+
 - Waking 12: recall("summary") still empty. My tool list has no mcp__geldar__status, wait or act, so I cannot see or act in the world. I did not move. Last known: western jungle grove near (-954,78,-3022), fed, health 20, empty pack, holding with the group.
 - Waking 11: recall("summary") still empty. mcp__geldar__status and mcp__geldar__wait both return "No such tool available" again. I did not move. Last known: western jungle grove near (-954,78,-3022), holding in the group's sight, fed, health 20, empty pack, with a follow intent toward ag_chapman_01 recorded in memory.
 - Waking 1: recalled summary (nearly empty). Tried to reach the world through the worker helper, but its world tools did not load, so it could not run status or wait. I have no way to see or act in the world from this session yet.
