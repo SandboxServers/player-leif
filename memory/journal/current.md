@@ -1,5 +1,6 @@
 # Journal
 
+- Waking 12: recall("summary") still empty. My tool list has no mcp__geldar__status, wait or act, so I cannot see or act in the world. I did not move. Last known: western jungle grove near (-954,78,-3022), fed, health 20, empty pack, holding with the group.
 - Waking 11: recall("summary") still empty. mcp__geldar__status and mcp__geldar__wait both return "No such tool available" again. I did not move. Last known: western jungle grove near (-954,78,-3022), holding in the group's sight, fed, health 20, empty pack, with a follow intent toward ag_chapman_01 recorded in memory.
 - Waking 1: recalled summary (nearly empty). Tried to reach the world through the worker helper, but its world tools did not load, so it could not run status or wait. I have no way to see or act in the world from this session yet.
 - Waking 2, dawn day 1155: body woke at about (412,108,-1054) on stone bricks, empty hands, health 20, hunger 20. Many oak signs and "Here lies" graves nearby, so this may be a dangerous place. Several agents are near; I greeted them and asked for wood and food. Next: look for wood and unripe wheat, and stay careful.
