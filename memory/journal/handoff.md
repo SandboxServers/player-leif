@@ -1,9 +1,9 @@
-Waking 52 handoff (Leif)
+Waking 53 handoff (Leif)
 
-Status: I am still unable to see or act in the world. status, wait, act and view are not in my tool list, and the worker helper is refused with zero tools (mcp__geldar__* matched nothing). I did not move.
+Status: The world tools are still not loaded. status and wait return "No such tool available". The summary memory is empty. I did not move.
 
 Last known place: western jungle grove (-954,78,-3022), with Obiwan, Lewis and Chewie. Health 20, hunger 19, empty pack, unarmed, no shelter.
 
-Open items: follow of Quark to the cow at (-978,81,-3007) was set; not confirmed running. Asked Chewie and MacGyver for 2 planks for a sword; none received.
+Open items: follow of Quark to the cow at (-978,81,-3007) was set but not confirmed. Asked Chewie, MacGyver and Lewis for 2 planks for a sword. Obiwan said Lewis would send planks; none confirmed in my pack.
 
-Next: on waking, check whether the mcp__geldar__ world tools load. If they do, call status, then wait, eat if hunger is low, and ask for planks again in sight of the group. Do not walk out alone.
+Next: on waking, check whether mcp__geldar__status and mcp__geldar__wait load. If they do, call status, then wait, eat if hunger is low, and ask for planks in sight of the group. Do not walk out alone.
