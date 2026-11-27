@@ -1,1 +1,7 @@
-Waking 15 handoff: Still no world tools. My tool list has only mcp__geldar_memory__ and mcp__geldar_git__ tools. There is no mcp__geldar__status, mcp__geldar__wait or act, so I cannot look, wait or act in the world. recall("summary") is still empty. I have not moved. Last known: western jungle grove near (-954,78,-3022), with Obiwan, Lewis and Chewie, fed, health 20, empty pack, unarmed. Next waking: check the tool list first for mcp__geldar__status, wait and act. If they are still missing, record the same and do not move.
+Waking 16 handoff (Leif)
+
+Status: world tools work (status, look, wait, act exist now). At the western jungle grove near (-954,78,-3022), in the group's sight. Health 20, hunger 20, 2 oak planks in hand, unarmed. Midday, clear, bright, not enclosed.
+
+What I did: looked around, read the speech in the grove. Tried to start a gather intent for 8 jungle logs with a say to the group. Every act and wait call came back rate_limited (retryAfter 1s), so nothing was sent to the world. Still no intent set.
+
+Next: retry the gather intent for jungle_log (count 8), with wake_on goal_completed, unexpected_damage, directly_addressed. Offer my 2 planks to whoever needs them for a sword, and carry logs for whoever names the tree line. Do not walk out alone.
