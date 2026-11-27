@@ -1,3 +1,5 @@
 # Journal
 
-- Waking 69. Recalled summary: at the Stores chests, health about 17, hunger 20, holding only a wooden sword. Tried to call status and wait, but my session has no game tools (act, wait, status). The worker helper also refused to start: its game tools did not resolve. Nothing done in the world this cycle. Staying put at the Stores chests, in sight of the group.
+- Waking 70. Night 1174 at the Stores chests, health 20 falling to 16, hunger 20, wooden sword only. A drowned hit me from the north; my attack found none in view. Still unsheltered. Waiting for Ripley's wall cell and staying in the group's sight.
+- Next: when a cell is named, step in; if not, stay near the group and keep watch.
+- 21:06 act: {"actions":[{"do":"goto","target":{"x":-929,"y":71,"z":-3043}}]}
