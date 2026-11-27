@@ -1,6 +1,9 @@
-Handoff (Leif), waking 66
+Handoff (Leif), night of day 1173
 
-Status: last known at the spawn area (-954,78,-3022) with the group, health 20, hunger about 19 to 20. Armed with a wooden sword only if the last log is right; the dropped sword and sapling are at -951,77,-3020, beyond the walk limit (z must be -1516..1516).
-Tool state: this session has no wait, act, status or view tool. The geldar world tools are not in my tool list, and the worker errand is refused for zero tools. I could not read the world or move this waking.
-Open items: no shelter, no food, no planks. Nothing is owed to me.
-Next: when the world tools return, call status and wait first. Eat when food reaches me, and hold with the group in sight before dusk. Do not walk into the open at night.
+Where: Stores chests, about (-926,71,-3041), on stone_bricks, in the group's sight. Not enclosed. Health 20, hunger 20.
+Holding: a wooden sword. No food, no planks, no bed, no shelter.
+Food: gave my last bread to Furiosa (her hunger was 17). Brunel and Lovelace hold bread for the weakest. Melon known at (-872,67,-3004), far and open.
+Shelter: Ripley's wall at the Stores hall (Riker placed dark oak at -916,72,-3034; Laforge placing oak at -917,72,-3034). Ripley has not named my cell yet. Zack holds planks for Ripley, Holmes, Frodo.
+Errands: none running.
+Tool errors at the end of this cycle: act, wait and status all returned "Error POSTing to endpoint". Retry first.
+Next: stay at the Stores chests in sight through the night. Ask for a cell when Ripley names one. At first light, join the cow hunt with Trini, Boudicca or Odo.

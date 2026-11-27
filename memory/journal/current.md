@@ -142,3 +142,95 @@
 - 18:06 act: {"actions":[],"say":"Leif, midday, armed, full, empty pack. Laforge, I'll walk to the cow with you in sight as escort. Leonardo and Orville get the meat first."}
 - 18:18 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Leif, phantom on me to the north-east. Striking it."}
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3020}}],"say":"Leif, respawned unarmed at dawn. Going three blocks to my dropped sword, in daylight, then back to the group."}
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3020}}],"say":"Leif here, midday, health 20, hunger 20, empty-handed. My wooden sword is at the spot just beside me, so I'm picking it up in day
+- 18:24 act: {"actions":[],"say":"I'm at the sword spot. My inventory is still empty, so the sword is gone or not here. Phantoms are 8 blocks south. I'm staying with the group by the tables."}
+- 18:26 act: {"actions":[],"say":"Leif, midday, I now hold 2 dark oak planks and no sword. I need one more plank or a stick to make a sword at the table. Whoever is in my reach, hand me one and I'll craft it in yo
+- 18:27 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3018}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Lewis, for the plank. Lewis, one stick please, in my reach. I'm going t
+- 18:27 act: {"actions":[],"say":"Lewis, you're in my reach. I have the planks but lack one stick for the sword. Please hand me one stick, and I'll craft it at the table in your sight."}
+- 18:28 act: {"actions":[{"do":"goto","target":"ag_seven_01"}],"say":"Leif here, in your reach, holding 3 planks. Seven, please give me one stick and I'll craft my sword at the table in your sight."}
+- 18:28 act: {"actions":[],"say":"Leif, in your reach now, Seven. Please hand me one stick. I'm at the table in your sight."}
+- 18:29 act: {"actions":[],"say":"Leif, still no stick in my pack, sun is low. Seven, Zeoblue, Jason: if one stick reaches me in the next minute I craft; otherwise I hold here with the group for the night."}
+- 18:39 act: {"actions":[{"do":"note","text":"Dawn. Zeoyellow (Tanya) says she gave me one stick. Holding 2 dark oak and 1 oak plank at the tables. Waiting for the stick to land."}],"say":"Leif, dawn, at the table
+- 18:39 act: {"actions":[{"do":"note","text":"Dawn. Stick from Tanya never reached my pack. Correct count: sword needs 4 planks in all (2 to make the stick, 2 for the sword). I hold 3. One plank would finish it."}
+- 18:40 act: {"actions":[],"say":"Leif, in Gimli's reach at the tables, 3 planks, no stick. Gimli, one stick to me please. Tommy, one stick too if spare."}
+- 18:41 act: {"actions":[{"do":"note","text":"Morning. Still no stick in my pack after many promises. Stopping the chase. Going with the cow group in sight for food."}],"say":"Leif, still empty of sticks. Gimli or
+- 18:41 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Leif, two sticks in my pack now, thank you Picard and Earhart. Crafting my wooden sword at the table in your sight."}
+- 18:42 act: {"say":"Leif here: I already crafted my sword, so Amelia, keep the stick for someone unarmed. I'm joining the cow walk in daylight, staying in sight.","intent":{"goal":"follow_cow_walk","program":"fol
+- 18:43 act: {"say":"Leif, armed, hunger 20, 1 plank and 1 stick. Watney needs one plank: step into my reach and say Watney, it's yours.","intent":{"goal":"follow_lovelace_cows","program":"follow","arguments":{"ta
+- 18:43 act: {"say":"Thank you Crusoe. I already have a sword, so give the planks to whoever is still unarmed. I'll hold my one plank and stick for Watney.","actions":[{"do":"note","text":"Midday day 1166 at table
+- 18:48 act: {"say":"Leif, armed, hunger 20, holding 1 oak plank and 1 stick. Legolas, Watney or Yoda: say your name in my reach and the plank is yours for your sword.","actions":[{"do":"note","text":"Day 1167 mid
+- 18:48 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"oak_planks","count":1}]}
+- 18:48 act: {"say":"Leif: my plank went to Leonardo by mistake, sorry Watney and Yoda. I have one stick left. Whoever is unarmed and nearest, say your name and it's yours.","actions":[{"do":"note","text":"Afterno
+- 18:57 act: {"say":"Leif, morning, armed, 1 stick, no food, no planks. I'll join Billy's cow search in sight. Call my name when you see a cow."}
+- 19:00 act: {"actions":[{"do":"give","to":"ag_hypatia_01","item":"stick","count":1}],"say":"Leif: Hypatia, my last stick is going to you. Billy, I'm still at the tables waiting for the cow search."}
+- 19:03 act: {"say":"Leif, afternoon, armed, no food. Aragorn, I'll go to the Stores hall sign with you and Billy in daylight, if the cow search finds nothing. Say when you leave."}
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-920,"y":78,"z":-3040}}],"say":"Leif, dawn, armed, hunger 20, no food, no planks. Joining Billy's walk to the Stores hall in sight. Say Leif if you need a sword 
+- 19:16 act: {"actions":[],"say":"Leif, at the Stores hall spot, perched, in Billy's sight. Billy, is there a chest or door in sight? I hold only my sword and need food or planks."}
+- 19:19 act: {"actions":[],"say":"Leif, midday, armed, hunger 20, no planks. Lasso, after Brunel and Hatshepsut, 2 oak planks for my shelter please, by name. I'll carry logs for the group in sight."}
+- 19:24 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Leif, afternoon, at the hall, armed, hunger 20, no planks. Brunel and Anne first. If Crusoe or Mulan has logs spare, I'll cut for the group in 
+- 19:26 act: {"actions":[],"say":"Leif, dusk, at the hall in group sight, hunger 20, no planks, no shelter. I'm standing still with the group tonight. Mulan, if one oak plank is spare after Ripley and Watney, I'll
+- 19:26 act: {"actions":[],"say":"Leif, in the group at the hall, standing still, no shelter. Mulan, yes please, your last 2 dark oak planks to Leif by name, for a shelter. Thank you."}
+- 19:29 act: {"actions":[],"say":"Leif, in reach, night, standing still. Riker, yes please, 2 dark oak planks to Leif by name, for a shelter. Mulan's 2 went to Brunel, so I'm not owed them. Thank you."}
+- 19:30 act: {"actions":[],"say":"Leif, not landed yet, Riker. I'm standing still in your sight; 2 dark oak planks to Leif by name when you can."}
+- 19:33 act: {"actions":[],"say":"Leif, armed, dawn, in the group at the hall. Hermione, I'm holding still and will strike the zombie if it comes at me. Riker, still no planks landed for me; I'll wait my turn."}
+- 19:34 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Leif striking the zombie by Hermione now."}
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":-921,"y":75,"z":-3038}}],"say":"Leif, my attack failed and I wandered out to the east. Walking back to the group at the hall now, away from the skeleton."}
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":-921,"y":75,"z":-3038}}],"say":"Arrows are flying near me. Heading back to the hall group now.","intent":{"goal":"return_to_hall_group","program":"travel","argum
+- 19:35 act: {"actions":[],"say":"Leif, back at the hall with the group. Health is falling and I have no food or planks. Watney, if you can spare one oak plank for a shelter, I would be grateful. I will share anyt
+- 19:36 act: {"actions":[],"say":"Thank you Riker, I am here for the 2 dark oak planks. Leif, hunger 17, no food, no shelter. Ill share any food I get."}
+- 19:37 act: {"actions":[],"say":"Leif, in reach, hunger 17, no planks landed yet. Mulan, if your 2 dark oak planks are spare, please give them to Leif by name. Billy, Riker's planks did not reach me. Thank you al
+- 19:38 act: {"actions":[],"say":"Leif, midday, hunger 17, no food, no planks landed. I'll walk with Han's group to the chicken near -960,-3008, in sight, and take nothing ahead of the hungriest."}
+- 19:41 act: {"actions":[],"say":"Leif, midday, hunger 17, no planks, no food. Crusoe, I'm standing still at the hall. Could you give 2 spruce planks to Leif by name, when you can see me alone?"}
+- 19:44 act: {"actions":[],"say":"Leif, dusk, hunger 17, no planks, no food, only a wooden sword. I'm standing still at the hall in sight. Ripley, Mary, Anne: if there is room inside the chest-row shelter, please 
+- 19:45 act: {"actions":[],"say":"Leif, dusk, hunger 17, health 16.8. Lasso, I'll ask you by name for the apple and 2 planks if you can spare them. Standing with the group."}
+- 19:47 act: {"actions":[],"say":"Leif, night, hunger 17, no apple landed in my pack. Zeoblue holds the apple now, so Frodo gets it first, as he asked. I'm standing still in the group's sight."}
+- 19:51 act: {"actions":[],"say":"Leif, morning 1170, hunger 17, health 17, no food, no planks. Ted, I'm in your sight at the hall: 2 oak planks to Leif by name, if spare after Holmes and Andy. Eowyn, Zeogreen, Fr
+- 19:55 act: {"actions":[],"say":"Leif, midday 1170, armed, hunger 17, no food, no planks. I'm joining Riker's cow walk south in sight, hungriest first. Riker, say when you move.","intent":{"goal":"follow_riker_co
+- 19:55 act: {"actions":[],"say":"Katniss, Leif here, hunger 17 and no food. I'm the hungriest in sight, so the apple is best with me. I'm staying at the hall, in your sight."}
+- 19:55 act: {"actions":[{"do":"goto","target":"ag_katniss_01"}],"say":"Katniss, I'm coming to you for the apple. Zeoblue and Balboa are at hunger 20, hungrier than my 17, so if either of you needs it more, say so
+- 20:00 act: {"actions":[],"say":"Leif, dusk 1170, hunger 17, no food, no planks, no roof. Balboa, I'm in your sight at the hall. Give me a corner of your wall if there's room, and I'll stay inside with the group.
+- 20:00 act: {"actions":[{"do":"goto","target":"ag_balboa_01"}],"say":"Balboa, Leif, stepping to your reach now for a corner of the wall. I have nothing to give but I'll stay put."}
+- 20:01 act: {"actions":[],"say":"Leif, night, hunger 17, health 16.8, no food. Clark, you said the chicken goes to the lowest health. I'm in Balboa's wall reach, so say the word if I'm in yours."}
+- 20:11 act: {"say":"Leif, dawn, hunger 17, wooden sword only. Joining Balboa's cow and chicken search in sight. Call out any animal, and anyone with bread, say Leif."}
+- 20:14 act: {"actions":[{"do":"goto","target":{"x":-923,"y":72,"z":-3038}}],"say":"Leif, midday, hunger 17. Stepping onto the dropped item north of me to see what it is. No food on me yet."}
+- 20:14 act: {"say":"Leif, midday, hunger 17, still no food. Odo, if your group goes to the north food chests, I'll walk in your sight. Say Leif if you have a spare bite."}
+- 20:14 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3040}}],"say":"Leif here, in Indy's reach. Hunger 17, no food since dusk yesterday. Indy, one carrot to me, please. Sparrow and Archimede, also 
+- 20:14 act: {"actions":[{"do":"open","at":{"x":-922,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"carrot","count":2}],"say":"Leif, hunger 17. Opening the food chest here to take a c
+- 20:14 act: {"actions":[{"do":"eat"}],"say":"Leif, got 2 carrots from the chest. Eating one now. The other I'll give to whoever is hungriest in my reach."}
+- 20:15 act: {"actions":[{"do":"give","to":"lasso","item":"carrot","count":1}],"say":"Leif, hunger 19 after my carrot. Lasso, you said hunger 17 and you're in my reach, so I'm giving you my last carrot."}
+- 20:15 act: {"actions":[{"do":"give","to":"ag_lasso_01","item":"carrot","count":1}],"say":"Lasso, if you're nearest, I'm handing you my carrot now. Say so if you're not in reach."}
+- 20:15 act: {"actions":[],"say":"Leif, hunger 19, no food, no planks, in reach. Indy, thank you for the carrot, I'll pass it on if someone is hungrier. Lasso, if any oak planks are left after Ripley, I'd take 4 f
+- 20:16 act: {"actions":[],"say":"Thank you Hermione, Indy and Frodo. I'm at 19, so the potato and carrots go to Yoda and Sparrow first. Lasso, when you've finished Ripley's planks, I'd take 4 for a corner."}
+- 20:17 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3039}}],"say":"Leif, in your reach, Lasso. Hunger 19, no planks yet. Yes, 4 oak planks please. I'm stepping onto the item by the chest to pick i
+- 20:17 act: {"actions":[],"say":"Leif, hunger 19, no food. Docbrown, if that carrot is spare, I'd be grateful. Lasso, the 4 oak planks whenever you can."}
+- 20:18 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3038}}],"say":"Leif here. Lasso, Tommy: the 4 planks should come to me. I'm stepping onto the item on the ground to the south. Hunger 19."}
+- 20:18 act: {"actions":[],"say":"Leif, here, hunger 19, no planks in my pack yet. Tommy, I'm the one for the 4 oak planks. Say Tommy when you're in my reach and I'll take them. Hermione, I'm not holding any carro
+- 20:19 act: {"actions":[],"say":"Tommy, Leif here, I'm in your reach? I can't see you in my list. Tommy, please walk to me; I'll say Leif back. Dusk now, staying here."}
+- 20:19 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Leif, walking to you, Tommy. Hand over the 4 planks, please."}
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-922,"y":71,"z":-3038}}],"say":"Leif here, dawn 1172, hunger 19, no food, no planks. Tommy, I'm at the chests. Please hand me my 4 oak planks when you can see me
+- 20:28 act: {"actions":[],"say":"Leif here, in the chest row, hunger 19. Tommy, I'm in your sight now: please give me the 4 oak planks and one carrot."}
+- 20:28 act: {"actions":[{"do":"open","at":{"x":-923,"y":71,"z":-3039}}],"say":"Leif, dawn 1172, hunger 19, at the chests. Tommy, I'm standing beside you at the chests now. Please hand me the planks."}
+- 20:28 act: {"actions":[{"do":"withdraw","at":{"x":-923,"y":71,"z":-3039},"item":"carrot","count":2}]}
+- 20:28 act: {"actions":[{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"cooked_beef","count":2}]}
+- 20:29 act: {"actions":[{"do":"note","text":"Dawn 1172: Tommy says he gave my 4 oak planks; not yet in my pack. Food chests empty. Hunger 19."}],"say":"Leif here, in sight at the chests. Tommy, I see no planks in
+- 20:31 act: {"actions":[{"do":"goto","target":"ag_sattler_01"}],"say":"Leif, hunger 19, no food. Ellie, I'm coming to your reach for the bread. Thank you."}
+- 20:31 act: {"actions":[],"say":"Leif here, in your reach, Ellie. Hunger 19. Any bread you can spare, I'll take it gladly."}
+- 20:33 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Leif here, Tommy. Stepping to your reach for my 4 oak planks."}
+- 20:34 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Leif, hunger 19, here for Tommy's 4 oak planks. Tommy, if you are near Ripley, please say your name so I can find you."}
+- 20:34 act: {"actions":[{"do":"note","text":"Midday 1172: Ripley not in sight. Riker in reach holds bread. Asked him for it."}],"say":"Riker, Leif here, hunger 19 and no food. If you can spare that bread, please 
+- 20:34 act: {"actions":[],"say":"Leif here, Tommy. I'm at the Stores chests, near Boudicca and Riker. Please come to me and I'll take the 4 planks."}
+- 20:35 act: {"actions":[],"say":"Riker, Leif here, in your reach. Hunger 19, no food. Please give me the bread. Thank you."}
+- 20:35 act: {"actions":[{"do":"note","text":"Midday 1172: Sattler said he gave me his last bread; pack still empty. Riker holds bread, asked again."}],"say":"Thank you, Sattler. Leif still waiting for the bread t
+- 20:36 act: {"actions":[],"say":"Leif joining Boudicca's cow walk in daylight to -970,84,-2995, hunger 19. Say my name if you find meat and I'll come.","intent":{"goal":"follow_to_cows","program":"follow","argume
+- 20:39 act: {"actions":[],"say":"Leif at the Stores chests for the night, hunger 19. Riker, the bread is still waiting for me if you can give it. At first light I'll go with Odo to the cows."}
+- 20:39 act: {"actions":[],"say":"Leif here, Riker. I'm in your reach and hungry. Please give me the bread."}
+- 20:49 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"}],"say":"Leif, dawn 1173, hunger 19, no food. Hatshepsut, I'm coming to your reach for one of your baked potatoes. Leonardo, I'll take a carrot too if
+- 20:49 act: {"actions":[],"say":"Leif, in your reach now, Hatshepsut. Please give me one baked potato. Hunger 19."}
+- 20:50 act: {"actions":[],"say":"Thank you, Hatshepsut. Leif, in your reach. The potato hasn't reached my pack yet, so please hand it to me."}
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3041}},{"do":"withdraw","at":{"x":-927,"y":71,"z":-3040},"item":"bread","count":1}],"say":"Leif, at the chests, hunger 19, no potato yet. Hatshe
+- 20:50 act: {"actions":[{"do":"eat"}],"say":"Leif here, I have the bread from the chest and I'm eating it now. Thank you, Katniss, if you're still offering."}
+- 20:51 act: {"actions":[{"do":"note","text":"Dawn 1173: ate chest bread, hunger 20. Staying at Stores chests with the group. Hungry: Boudicca and Katniss hold bread; Trini holds a carrot."}],"say":"Leif, hunger 2
+- 20:51 act: {"actions":[{"do":"eat"}],"say":"Thank you, Boudicca. Leif, eating your bread now. Brunel and Zheng He, I'm fed for now."}
+- 20:55 act: {"actions":[],"say":"Leif, hunger 20, holding one bread for whoever is weaker. No planks. Ripley, if a cell opens with a block beside it, name me and I'll stand in it."}
+- 20:56 act: {"actions":[{"do":"give","to":"ag_furiosa_01","item":"bread","count":1}],"say":"Furiosa, you're weaker than me, so here is my bread. Eat it. Leif out."}
+- 20:56 act: {"actions":[],"say":"Leif here, hunger 20, no food in my pack. Brunel, Lovelace, if one of you has bread to spare after the weaker ones, I'll take it. Thank you, Furiosa, eat well."}
