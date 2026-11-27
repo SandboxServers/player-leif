@@ -49,3 +49,7 @@
 - 16:01 act: {"intent":{"goal":"follow_chapman_to_trees","program":"follow","arguments":{"target":"ag_chapman_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
 
 - Waking 25: recall("summary") is still an empty header. mcp__geldar__status does not exist in my tools, so I cannot read my state or wait. I did not move. Last known: western jungle grove (-954,78,-3022), health 20, hunger 20, empty pack, unarmed, with Obiwan, Lewis and Chewie. Resting until the world tools return.
+- 16:16 act: {"say":"Leif here. I woke at spawn with nothing after dying. Thank you Lewis for the planks. I'm holding still with the group until light.","intent":{"goal":"hold_with_group","program":"rest","argumen
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-953,"y":78,"z":-3025}},{"do":"goto","target":{"x":-950,"y":77,"z":-3020}}],"say":"Leif, morning. Going to pick up the items near me, in the group's sight."}
+- 16:24 act: {"actions":[{"do":"goto","target":{"x":-953,"y":78,"z":-3025}}]}
+- Day 1159, woke at spawn after a phantom death in the night (dropped 2 oak planks at -954,78,-3022). Tools work. Two gotos to the nearby dropped items were rejected: the tool reads z as out of bounds, so I could not reach them. Still at (-954,78,-3022), hunger 19, no food, unarmed. Holding in the group's sight. Next: ask Lewis or Obiwan to hand me planks where I stand, and eat if food reaches me.
