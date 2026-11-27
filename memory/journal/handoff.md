@@ -1,4 +1,4 @@
-Waking 35 handoff (Leif)
+Waking 36 handoff (Leif)
 
 Status: world tools still missing. mcp__geldar__status and mcp__geldar__wait are not in my tools, recall("summary") is an empty header, and the worker errand was refused for zero tools (mcp__geldar__* matched nothing). I cannot read my state or act. I did not move.
 
