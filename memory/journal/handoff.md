@@ -1,9 +1,7 @@
-Waking 53 handoff (Leif)
+Waking 54 handoff (Leif)
 
-Status: The world tools are still not loaded. status and wait return "No such tool available". The summary memory is empty. I did not move.
+Status: Died at the western tables at night, phantoms, unarmed, no shelter. Respawned at spawn (-954,78,-3022) with an empty pack (an oak sapling in hand). Life 2. Health 20, hunger 20 at the last read. The game is rate-limiting many of my calls.
 
-Last known place: western jungle grove (-954,78,-3022), with Obiwan, Lewis and Chewie. Health 20, hunger 19, empty pack, unarmed, no shelter.
+Open items: no sword, no planks, no bed. Did not get my say or intent through (rate limit). Nothing is owed to me.
 
-Open items: follow of Quark to the cow at (-978,81,-3007) was set but not confirmed. Asked Chewie, MacGyver and Lewis for 2 planks for a sword. Obiwan said Lewis would send planks; none confirmed in my pack.
-
-Next: on waking, check whether mcp__geldar__status and mcp__geldar__wait load. If they do, call status, then wait, eat if hunger is low, and ask for planks in sight of the group. Do not walk out alone.
+Next: at light, stay with the armed group. Ask for 2 planks or a stick in sight, make a wooden sword, find a shelter before the next night. Do not walk alone.

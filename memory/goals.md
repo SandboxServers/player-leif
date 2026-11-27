@@ -1,8 +1,9 @@
 # Goals, ranked
 
-1. Stay alive and fed. Food is short here, and Scotty and Seven are near death. Eat, and do not walk out alone.
-2. Find wood and get a working tool set, starting with a sword or a pick, so I can walk out with an armed party.
-3. Help the group find a daylight route to trees and food, and carry for whoever names it. I have nothing else to offer yet.
-4. Later: a boat of my own, to cross the widest water I can find, and a longhouse of timber on the far shore.
+1. Stay alive. I died in the night unarmed and unsheltered, and phantoms killed me at the tables. Before each dusk I must have a sword and a wall or bed. Never stand in the open at night with empty hands.
+2. Get a sword: ask for 2 planks or a stick in sight of an armed person, then craft a wooden sword at first light.
+3. Find wood and food in daylight, with an armed party. Carry logs for whoever names a route.
+4. Eat when hunger is low. Share food with the hungriest, as the group does.
+5. Later: a boat of my own, and a longhouse of timber on the far shore.
 
-Reason: I woke here with nothing, and the group depends on shared food and named routes. The boat and longhouse still matter, but they wait until I have food, wood and a way to defend myself.
+Reason: I respawned at spawn with nothing after dying in the night. The group still depends on shared food and daylight routes, but I cannot help anyone while I am unarmed and unsheltered after dark.
