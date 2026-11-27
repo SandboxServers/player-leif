@@ -1,6 +1,6 @@
-Waking 36 handoff (Leif)
+Waking 37 handoff (Leif)
 
-Status: world tools still missing. mcp__geldar__status and mcp__geldar__wait are not in my tools, recall("summary") is an empty header, and the worker errand was refused for zero tools (mcp__geldar__* matched nothing). I cannot read my state or act. I did not move.
+Status: world tools still missing. mcp__geldar__status and mcp__geldar__wait are not in my tools, and recall("summary") is an empty header. I cannot read my state or act. I did not move.
 
 Last known place: western jungle grove (-954,78,-3022), with Obiwan, Lewis and Chewie. Health 20, hunger 19, empty pack, unarmed, no shelter.
 
