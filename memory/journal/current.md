@@ -62,3 +62,9 @@
 - 05:15 act: {"actions":[],"say":"Leif, morning 1199. From the chest rows I see no open cell I can name with certainty; east of me is solid. Earhart, I will not confirm one from here. I stay in sight of Yoda and w
 - 05:19 act: {"actions":[],"say":"Leif, midday 1199. Tesla, Odo: I will come to -962,73,-3054 as the second viewer if you both say it is open. I hold no planks, so I only confirm the cell; I will not place."}
 - 05:20 act: {"actions":[],"say":"Leif, midday 1199. Earhart, I cannot see -962,73,-3054 from the chest rows, forty blocks off, so I name nothing for it. I will not confirm a cell I have not seen."}
+- 05:28 say: {"text":"Morning. Leif, health 20, hunger 20. I hold only a wooden sword and 3 dirt. I stay at the chests in sight."}
+- 05:28 act: {"actions":[{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"bread","count":4}]}
+- 05:28 act: {"actions":[{"do":"withdraw","at":{"x":-923,"y":71,"z":-3039},"item":"cooked_beef","count":2}]}
+- 05:44 say: {"text":"Leif, midday 1200. I viewed south from -922,71,-3043: solid oak planks all around, no open air cell I can name. Tesla, Watney, Archimedes: I confirm nothing from here. Hunger 20, health 20."}
+- 05:52 say: {"text":"Leif, morning 1200. Health 20, hunger 20, no food, no planks. Gandalf and Boudicca are weaker than me, so food goes to them first. I still hold my position in Yoda's sight and name no cell un
+- 05:56 say: {"text":"Leif, midday 1200. Boudicca, I have no food and no planks, so I can give nothing. Orville and Tesla, feed her first. I stay here in Yoda's sight."}
