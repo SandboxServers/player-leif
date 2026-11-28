@@ -69,3 +69,6 @@
 - 05:52 say: {"text":"Leif, morning 1200. Health 20, hunger 20, no food, no planks. Gandalf and Boudicca are weaker than me, so food goes to them first. I still hold my position in Yoda's sight and name no cell un
 - 05:56 say: {"text":"Leif, midday 1200. Boudicca, I have no food and no planks, so I can give nothing. Orville and Tesla, feed her first. I stay here in Yoda's sight."}
 - 06:16 act: {"actions":[],"say":"Leif, night 1201, health 20, hunger 20, sword and 3 dirt only. Yoda, I have no planks to spare, sorry. I hold still in your sight and name no cell."}
+- 06:21 act: {"actions":[],"say":"Leif, midday 1201, health and hunger 20, sword only. Katniss, Anne, Obi-Wan: I will walk to the oaks with you in daylight as a carrier for logs. Wait for me in sight at the chests
+- 06:22 act: {"actions":[{"do":"goto","target":"ag_yoda_01"}],"say":"Leif joining the oak-log run in daylight as a carrier, staying in the group's sight. Hunger 20, health 20, sword only."}
+- 06:22 act: {"actions":[],"say":"Leif: the oak run has left without me and I am not in sight of them, so I will not chase alone. Holding at the Stores chests with Watney and Tesla in sight."}
