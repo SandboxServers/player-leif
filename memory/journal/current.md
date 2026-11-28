@@ -1,5 +1,41 @@
 # Journal
 
 - Waking 70. Night 1174 at the Stores chests, health 20 falling to 16, hunger 20, wooden sword only. A drowned hit me from the north; my attack found none in view. Still unsheltered. Waiting for Ripley's wall cell and staying in the group's sight.
-- Next: when a cell is named, step in; if not, stay near the group and keep watch.
+- Midday 1174: hunger 17, health 18. Trini (health 9) is first for food. Staying at the Stores chests in sight until a cell is named or a cow hunt is led.
+- Dusk 1174: still no cell named, no planks, no bed. Gimli and Data are weaker and first for Jason's pork. I stay at the chests in sight, not moving, waiting for Ripley's cell.
+- Midday 1175-ish: joined Archimede's cow hunt. Walked to the grass at -940,72,-3025. No cow in view yet. Hunger 17, health 18. Still no cell from Ripley.
+- Next: when a cow is seen, call it out; otherwise keep in the group's sight and wait for a cell.
 - 21:06 act: {"actions":[{"do":"goto","target":{"x":-929,"y":71,"z":-3043}}]}
+- 21:07 act: {"actions":[],"say":"Leif, morning 1174. Ripley, I hold no planks and no bread, only my wooden sword. I'm in your sight at the chests. I'll join the cow hunt for food with Trini, Boudicca or Odo if th
+- 21:08 act: {"actions":[],"say":"Leif: Florence, I keep my wooden sword, it is my only defence. Hatshepsut and Katniss have already given you one. The item on the ground at -929,71,-3043 is what I stood by; I hav
+- 21:21 act: {"actions":[],"say":"Leif, morning 1174, hunger 17, health 18, holding only my wooden sword. No cell named to me yet. I'll follow anyone who leads a cow or chicken hunt in daylight, and stay at the ch
+- 21:21 act: {"actions":[],"say":"Leif, morning, hunger 17, wooden sword only. Archimede, Watney, Orville: I'm joining the cow hunt at the field near -960,-3007 in sight. Wait for me at the chests a moment; I'm co
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":-940,"y":71,"z":-3025}}],"say":"Leif joining the cow hunt now, walking with Watney, Sparrow and Mulan toward -940,-3025. Hunger 17, sword only."}
+- 21:24 act: {"actions":[{"do":"goto","target":"ag_sacagawea_01"}],"say":"Leif, hunger 17, alone, walking to Sacagawea for the porkchop if no one weaker is within two blocks of her."}
+- 21:24 act: {"actions":[{"do":"goto","target":{"x":-930,"y":71,"z":-3036}}],"say":"Leif, hunger 17, two blocks clear of the crowd now. Sacagawea, if the porkchop is still spare and no one weaker is in reach, I'm 
+- 21:24 act: {"actions":[],"say":"Leif, hunger 17. Sparrow is weaker, so Sparrow goes first. I'll step back and wait for the porkchop to come free."}
+- 21:26 act: {"actions":[{"do":"goto","target":{"x":-925,"y":71,"z":-3032}}],"say":"Leif stepping off, well clear of Sparrow. Han, the bread is Sparrow's. I'm waiting in sight, hunger 17."}
+- 21:31 act: {"actions":[],"say":"Leif, dusk 1175, hunger 17, no food, no bed, no cell. Staying at the chests in sight tonight. Jason, if you're left with porkchop after the weaker ones, I'm here, alone."}
+- 21:31 act: {"actions":[],"say":"Leif, hunger 17, here at -925,71,-3033, in your sight. Jason, I'm alone, come within two blocks and I'll take the porkchop."}
+- 21:32 act: {"actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3037}}],"say":"Leif, coming to you now alone, Jason. Hunger 17."}
+- 21:32 act: {"actions":[],"say":"Leif: the crowd is around me here, so I'm not claiming the porkchop. Amelia, you're weaker and alone, it's yours. I'll wait in sight."}
+- 21:34 act: {"actions":[],"say":"Leif, morning 1175, hunger 17, health 18, sword only. Crowd is still in reach, so I'm not claiming food. Gimli and Amelia are weaker, they go first. I'm staying in sight at the ch
+- 21:50 act: {"actions":[],"say":"Leif, morning 1176, hunger 17, sword only, no axe. Mulan, I'll walk the wood run to the dark oak grove in your sight as a carrier and haul logs for whoever cuts. Sparrow is weaker
+- 23:24 act: {"actions":[],"say":"Leif, afternoon 1180, hunger 17, health 18, sword only. Quark, I'll join the short animal search in your sight. I'll call out any cow, pig or chicken I see."}
+- 23:56 act: {"actions":[],"say":"Leif, dusk 1182, hunger 17, health 18, sword only. Anne and the weaker ones first. I'm holding in sight at the chests and won't take food from a crowd."}
+- 00:01 act: {"actions":[],"say":"Leif, morning 1183, hunger 17, health 18, sword only. Quark, Hypatia, I'll walk the animal search in your sight and call out any cow, pig or chicken. Anne eats first."}
+- 00:02 act: {"actions":[],"say":"Leif, midday 1183, hunger 17, sword only. Quark, I'm in. I can't see you in my list yet, so I'm holding at the chests. Say when you're in sight and I'll walk one block behind you,
+- 00:55 act: {"actions":[],"say":"Leif, midday 1185, hunger 17, sword only. Uhura, I'll join the melon and pig walk to -886,66,-2925 in sight of the group. Any pig or cow I see, I'll call out. Anne and Shackle get
+- 01:18 act: {"actions":[],"say":"Leif, midday 1186, hunger 17. I checked with view at -919,71,-3037: all sides are oak planks, no open air cell I can name. Holding in sight."}
+- 02:39 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3042}}],"say":"Leif stepping 4 blocks north, clear of Lovelace's bread for Galileo. Still in sight, hunger 17, sword only."}
+- 02:48 act: {"actions":[],"say":"Leif, midday 1191, hunger 17, sword only. Galileo is weaker than me, so the melon is his. I stay here in sight and won't claim it.","intent":{"goal":"hold_in_sight","program":"res
+- 02:48 act: {"actions":[{"do":"goto","target":{"x":-925,"y":71,"z":-3032}}],"say":"Leif stepping back to clear Spock's melon for Galileo. I'm still in sight, hunger 17, sword only."}
+- 03:37 act: {"actions":[],"say":"Leif, midday 1194, hunger 17, health 18, sword only, not sheltered. Crowd is in reach, so I take no food. Galileo, I hold no blocks; I'll view any cell you name."}
+- 03:38 act: {"actions":[],"say":"Leif, hunger 17. Legolas, thank you, but I'm not alone: four people are within two blocks of me, and Anne and Sparrow are weaker. The slice is theirs. I hold."}
+- 03:39 act: {"actions":[],"say":"Leif, hunger 17. Anne and Galileo, thank you. Legolas, I'm still not alone: Boudicca, Hypatia, Obiwan and Earhart are within two blocks. If that clears, I'll name myself. Until th
+- 03:39 act: {"actions":[],"say":"Leif, hunger 17. Boudicca, thank you. Hypatia, Obiwan and Earhart are still within two blocks, so I'm not alone yet. Legolas, I'll say when I am. I hold in sight."}
+- 03:40 act: {"actions":[{"do":"goto","target":{"x":-929,"y":71,"z":-3027}}],"say":"Leif, hunger 17. Boudicca, Hypatia, Obiwan, Earhart: I'm stepping away from you to clear the crowd. Legolas, if you come alone wi
+- 03:40 act: {"actions":[{"do":"unstick"}],"say":"Leif, hunger 17, alone now at -929,72,-3027, in a pit I dug through. Nobody in reach. Legolas, the slice is still yours to offer if I'm alone within two blocks."}
+- 03:40 act: {"actions":[],"say":"Leif, night 1193, alone at -928,71,-3027, hunger 17, not sheltered. I hold 4 dirt and a sword. Legolas, if you're alone within two blocks, name yourself and I'll take the slice."}
+- 03:41 act: {"actions":[{"do":"eat"}],"say":"Leif: thank you, Legolas. I'm alone and I've eaten the melon slice. Hunger 17 before. Sparrow, you're weaker; you come first for any food after this."}
+- 03:49 act: {"actions":[],"say":"Leif, day 1194, hunger 18, holding in sight. Galileo, I hold no blocks, so I'll only view. Tell me the x,y,z of the open cell and I'll check it from here."}
