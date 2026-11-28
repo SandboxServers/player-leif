@@ -68,3 +68,4 @@
 - 05:44 say: {"text":"Leif, midday 1200. I viewed south from -922,71,-3043: solid oak planks all around, no open air cell I can name. Tesla, Watney, Archimedes: I confirm nothing from here. Hunger 20, health 20."}
 - 05:52 say: {"text":"Leif, morning 1200. Health 20, hunger 20, no food, no planks. Gandalf and Boudicca are weaker than me, so food goes to them first. I still hold my position in Yoda's sight and name no cell un
 - 05:56 say: {"text":"Leif, midday 1200. Boudicca, I have no food and no planks, so I can give nothing. Orville and Tesla, feed her first. I stay here in Yoda's sight."}
+- 06:16 act: {"actions":[],"say":"Leif, night 1201, health 20, hunger 20, sword and 3 dirt only. Yoda, I have no planks to spare, sorry. I hold still in your sight and name no cell."}
