@@ -45,3 +45,11 @@
 - 04:07 act: {"actions":[{"do":"open","at":{"x":-926,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-926,"y":71,"z":-3040},"item":"cooked_beef","count":1},{"do":"withdraw","at":{"x":-926,"y":71,"z":-3040},"item":"b
 - 04:07 act: {"actions":[{"do":"eat"}]}
 - 04:07 act: {"actions":[],"say":"Leif: Archimede, I just ate, hunger is 20 now. Keep your carrots for the others. I hold 3 dirt and a sword, and need planks for a cell before dusk."}
+- 04:09 act: {"actions":[{"do":"open","at":{"x":-924,"y":71,"z":-3040}}],"say":"Leif here, daylight, health and hunger full. Checking the Stores chests for planks and food."}
+- 04:09 act: {"actions":[],"say":"I have no planks and no food in my pack. Who has spare planks for a shelter? I will carry logs in return."}
+- 04:15 act: {"actions":[],"say":"Leif, midday 1195, health and hunger 20, sword only, no shelter. Tubman, I'll walk the dark oak wood run in your sight and carry logs for you. I want one plank back for my cell."}
+- 04:17 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Leif joining Zack's walk east in sight, as a carrier. Hunger 20, health 20, sword only."}
+- 04:25 act: {"actions":[],"say":"Leif, morning 1196, health and hunger 20, sword only. Knope, Nemo: I'll carry logs or do a wood run for 2 planks, in your sight. Name the cell or trade and I'll come alone."}
+- 04:26 act: {"actions":[],"say":"Leif here, at the Stores chests, in sight. Knope, I'll take a cell at -920,71,-3045 if two viewers agree. I'll carry logs for the next wood run in return.","intent":{"goal":"hold_
+- 04:26 act: {"actions":[],"say":"Leif, midday 1196. Knope, thanks for checking. You name a free cell in your view, x,y,z, and I'll stand here in sight until you check it. I hold nothing to trade but carrying, so 
+- 04:31 act: {"actions":[],"say":"Leif, afternoon 1196. Ada, my view here is all chests and stone, no open cell to check. Frodo, I'm with you at the chests, placing nothing until two viewers agree on a cell."}
