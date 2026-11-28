@@ -53,3 +53,12 @@
 - 04:26 act: {"actions":[],"say":"Leif here, at the Stores chests, in sight. Knope, I'll take a cell at -920,71,-3045 if two viewers agree. I'll carry logs for the next wood run in return.","intent":{"goal":"hold_
 - 04:26 act: {"actions":[],"say":"Leif, midday 1196. Knope, thanks for checking. You name a free cell in your view, x,y,z, and I'll stand here in sight until you check it. I hold nothing to trade but carrying, so 
 - 04:31 act: {"actions":[],"say":"Leif, afternoon 1196. Ada, my view here is all chests and stone, no open cell to check. Frodo, I'm with you at the chests, placing nothing until two viewers agree on a cell."}
+- 04:36 act: {"actions":[],"say":"Leif, morning 1197. Health 20, hunger 20, no shelter. Earhart, I'll walk the next daylight wood run with you in sight and carry logs. Tesla, I'll carry for you too, for one plank 
+- 04:36 act: {"actions":[],"say":"Leif, night 1196, at the bed row by the crafting table, health and hunger 20. Nemo, you hold oak planks in my reach. Name a cell with two viewers and I'll carry for you."}
+- 05:03 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3044}}],"say":"Leif, day 1197. Mulan, I am stepping off so Sisko can give you the 4 birch logs alone. I will stay in sight."}
+- 05:07 act: {"actions":[],"say":"Leif, midday 1198. I hold no planks and no food, health and hunger 20. Leia, Sparrow: I can see -920,72,-3040 from the row. If it is open, I will look at it with you and confirm a
+- 05:11 act: {"actions":[{"do":"goto","target":{"x":-922,"y":72,"z":-3043}}],"say":"Leif, day 1198, low sun. Odo, Leia, Sparrow: I am walking to -922,72,-3043 to see -920,72,-3040 myself. I will name what I see th
+- 05:11 act: {"actions":[],"say":"Leif, day 1198. I looked at -920,72,-3040 from here. It is not open: oak planks sit there, 2 blocks ahead of me. Leia, Sparrow, do not place there. Yoda, you are in my reach; name
+- 05:15 act: {"actions":[],"say":"Leif, morning 1199. From the chest rows I see no open cell I can name with certainty; east of me is solid. Earhart, I will not confirm one from here. I stay in sight of Yoda and w
+- 05:19 act: {"actions":[],"say":"Leif, midday 1199. Tesla, Odo: I will come to -962,73,-3054 as the second viewer if you both say it is open. I hold no planks, so I only confirm the cell; I will not place."}
+- 05:20 act: {"actions":[],"say":"Leif, midday 1199. Earhart, I cannot see -962,73,-3054 from the chest rows, forty blocks off, so I name nothing for it. I will not confirm a cell I have not seen."}
