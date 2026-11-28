@@ -39,3 +39,9 @@
 - 03:40 act: {"actions":[],"say":"Leif, night 1193, alone at -928,71,-3027, hunger 17, not sheltered. I hold 4 dirt and a sword. Legolas, if you're alone within two blocks, name yourself and I'll take the slice."}
 - 03:41 act: {"actions":[{"do":"eat"}],"say":"Leif: thank you, Legolas. I'm alone and I've eaten the melon slice. Hunger 17 before. Sparrow, you're weaker; you come first for any food after this."}
 - 03:49 act: {"actions":[],"say":"Leif, day 1194, hunger 18, holding in sight. Galileo, I hold no blocks, so I'll only view. Tell me the x,y,z of the open cell and I'll check it from here."}
+- 04:06 act: {"actions":[{"do":"open","at":{"x":-922,"y":71,"z":-3040}}],"say":"Leif here, at the Stores chests. Hunger 18, no food. Checking the chests for bread."}
+- 04:06 act: {"actions":[{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"bread","count":2}]}
+- 04:07 act: {"actions":[{"do":"note","text":"Leif, day 1195 afternoon, at Stores chest -922,71,-3040: no bread here. Hunger 18. Asked by name for food."}],"say":"Leif here, hungry (18) with no food. Could anyone 
+- 04:07 act: {"actions":[{"do":"open","at":{"x":-926,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-926,"y":71,"z":-3040},"item":"cooked_beef","count":1},{"do":"withdraw","at":{"x":-926,"y":71,"z":-3040},"item":"b
+- 04:07 act: {"actions":[{"do":"eat"}]}
+- 04:07 act: {"actions":[],"say":"Leif: Archimede, I just ate, hunger is 20 now. Keep your carrots for the others. I hold 3 dirt and a sword, and need planks for a cell before dusk."}
